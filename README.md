@@ -46,8 +46,10 @@ Based on geolocation and our Recyclepedia database it will provide guidance for 
 
  Funding options
  
-  Municipalities through a small annual fee per citizen per year in order to list location of collection points and Provide News based on geolocation
+  Municipalities through a small annual fee per citizen per year in order to list location of collection points and Provide News based on geolocation. 
+  
   Private recycling, upcycling, refurbishing, repairing companies though an annual fee to list location of their collection points.
+  
   Packaging companies through advertising for green packaging ranking system as a movement toward more sustainable products and through an annual fee in order to gain customer feedback.
   
   
